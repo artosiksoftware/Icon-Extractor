@@ -3,3 +3,4 @@ Icon Extractor is a utility for extracting icons from files of the type .exe or 
 
 The public version was released on July 1, 2023.
 ![splash_screen](https://github.com/artosik/Icon-Extractor/assets/125686517/51f215c5-ee4b-435a-a23b-a20fe55b7b9e)
+![IconBuilder](https://github.com/artosik/Icon-Extractor/assets/125686517/123e1ed0-6db0-4dac-975f-eaa42c017325)
